@@ -1,7 +1,10 @@
 {
   "private": true,
   "scripts": {
-    "truffle": "truffle"
+    "dev": "truffle develop",
+    "compile": "truffle compile",
+    "migrate": "truffle migrate",
+    "migrate": "truffle test"
   },
   "dependencies": {
     "truffle": "^4.0.6"
