@@ -1,1 +1,3 @@
 # EtherCastleJP
+
+Super unstable now.
