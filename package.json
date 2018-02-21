@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "truffle": "truffle"
+  },
+  "dependencies": {
+    "truffle": "^4.0.6"
+  }
+}
