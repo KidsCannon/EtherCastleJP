@@ -8,7 +8,8 @@
     "lint:fix": "eslint --fix src"
   },
   "dependencies": {
-    "truffle": "^4.0.6"
+    "truffle": "^4.0.6",
+    "zeppelin-solidity": "^1.7.0"
   },
   "devDependencies": {
     "eslint": "^4.18.1"
