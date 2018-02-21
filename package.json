@@ -3,10 +3,14 @@
   "scripts": {
     "dev": "truffle develop",
     "compile": "truffle compile",
-    "migrate": "truffle migrate",
-    "migrate": "truffle test"
+    "migrate": "truffle test",
+    "lint": "eslint src",
+    "lint:fix": "eslint --fix src"
   },
   "dependencies": {
     "truffle": "^4.0.6"
+  },
+  "devDependencies": {
+    "eslint": "^4.18.1"
   }
 }
